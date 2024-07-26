@@ -1,0 +1,1 @@
+A real-time tracking system using Node.js involves creating a platform that continuously updates and displays the location of entities (such as vehicles, assets, or users) in real-time. Node.js, with its event-driven, non-blocking I/O model, is well-suited for handling the high volume of data and concurrent connections required for real-time tracking.
